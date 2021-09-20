@@ -139,7 +139,7 @@ while True:
     if r == 1:
         print("That's great. ")
     else:
-        print("Come back soon bitch.")
+        print("Come back soon.")
         break
 
 
